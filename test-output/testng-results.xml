@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-10T18:41:16 IST" name="Suite" finished-at="2022-09-10T18:42:55 IST" duration-ms="99568">
+    <groups>
+    </groups>
+    <test started-at="2022-09-10T18:41:16 IST" name="Test" finished-at="2022-09-10T18:42:55 IST" duration-ms="99568">
+      <class name="scripts.Skillrary_TestCase1">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.Skillrary_TestCase1@2df9b86]" started-at="2022-09-10T18:41:16 IST" name="openApp" finished-at="2022-09-10T18:41:30 IST" duration-ms="14804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="tc1()[pri:0, instance:scripts.Skillrary_TestCase1@2df9b86]" started-at="2022-09-10T18:41:30 IST" name="tc1" finished-at="2022-09-10T18:41:46 IST" duration-ms="15805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="closeApp(org.testng.ITestResult)[pri:0, instance:scripts.Skillrary_TestCase1@2df9b86]" started-at="2022-09-10T18:41:46 IST" name="closeApp" finished-at="2022-09-10T18:41:47 IST" duration-ms="1035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc1 status=SUCCESS method=Skillrary_TestCase1.tc1()[pri:0, instance:scripts.Skillrary_TestCase1@2df9b86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.Skillrary_TestCase1 -->
+      <class name="scripts.Skillrary_TestCase3">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.Skillrary_TestCase3@7205765b]" started-at="2022-09-10T18:42:19 IST" name="openApp" finished-at="2022-09-10T18:42:29 IST" duration-ms="10264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="tc3()[pri:0, instance:scripts.Skillrary_TestCase3@7205765b]" started-at="2022-09-10T18:42:29 IST" name="tc3" finished-at="2022-09-10T18:42:55 IST" duration-ms="25734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="closeApp(org.testng.ITestResult)[pri:0, instance:scripts.Skillrary_TestCase3@7205765b]" started-at="2022-09-10T18:42:55 IST" name="closeApp" finished-at="2022-09-10T18:42:55 IST" duration-ms="493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc3 status=SUCCESS method=Skillrary_TestCase3.tc3()[pri:0, instance:scripts.Skillrary_TestCase3@7205765b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.Skillrary_TestCase3 -->
+      <class name="scripts.Skillrary_TestCase2">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.Skillrary_TestCase2@35aea049]" started-at="2022-09-10T18:41:47 IST" name="openApp" finished-at="2022-09-10T18:41:58 IST" duration-ms="10326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="tc2()[pri:0, instance:scripts.Skillrary_TestCase2@35aea049]" started-at="2022-09-10T18:41:58 IST" name="tc2" finished-at="2022-09-10T18:42:17 IST" duration-ms="19716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="closeApp(org.testng.ITestResult)[pri:0, instance:scripts.Skillrary_TestCase2@35aea049]" started-at="2022-09-10T18:42:17 IST" name="closeApp" finished-at="2022-09-10T18:42:19 IST" duration-ms="1313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc2 status=SUCCESS method=Skillrary_TestCase2.tc2()[pri:0, instance:scripts.Skillrary_TestCase2@35aea049] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.Skillrary_TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
